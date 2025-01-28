@@ -23,4 +23,4 @@
   [Link para o notebook no Colab](https://colab.research.google.com/drive/1QijY3r1Zxf4mVj3Bga4kb9msOhgpqqjt?usp=sharing)  
 
 - **Apresentação no YouTube:**  
-  [Link para o vídeo no YouTube](https://www.youtube.com/)  
+  [Link para o vídeo no YouTube](https://youtu.be/IYbmHdMMIJA)  
